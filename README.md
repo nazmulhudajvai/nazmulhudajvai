@@ -7,19 +7,19 @@
 ---
 
 ## 😃 About Me
-- 🌱 Currently learning **Flutter, Dart, Firebase, and Cyber Security**  
+- 🌱 Focused on building applications with Flutter, Dart, GetX, and exploring Artificial Intelligence.**  
 - 👯 Open to collaborate on **open-source Flutter projects**  
-- 📫 Reach me at: [Email](mailto:your@email.com)  
+- 📫 Reach me at: [Email](mailto:nazmulhudashukh@gmail.com)  
 - ⚡ Fun fact: I love **coding, football, and designing**  
 
 ---
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/md-nazmul-h-871786124" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/yourusername" target="_blank">
+  <a href="https://facebook.com/mdnazmul.huda.1420354" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="mailto:your@email.com">
